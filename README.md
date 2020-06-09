@@ -1,7 +1,7 @@
-# test4
+# Tittle
 Aplikasi Inventory Sumbangan Corona Menggunakan Flutter dan Phpmyadmin
 
-## Getting Started
+## Latar Belakang
 
   Sekarang ini pada awal tahun 2020 sedang terjadi pandemic virus corona yang sangat meresahkan masyarakat didunia. Peningkatan jumlah kasus terjadi dalam waktu singkat hingga butuh penanganan secepatnya. Sayangnya, hingga kini belum ada obat spesifik untuk menangani kasus infeksi virus Corona atau COVID-19. Sehingga para tim medis rumah sakit hanya bisa mencegah penyebaran virus Corona tersebut. Banyak peralatan khusus untuk mencegah penyebaran virus Corona ini, tetapi dengan  terbatasnya jumlah alat untuk mencegah virus Corona ini tim medis menjadi kesulitan. 
   
