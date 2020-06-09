@@ -13,7 +13,7 @@ Aplikasi Inventory Sumbangan Corona Menggunakan Flutter dan Phpmyadmin
   
  ![]("delete.jpeg")
  
- ![]("2.jpeg")
+ ![]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/2.jpeg")
  
  ![]("3.jpeg")
  
