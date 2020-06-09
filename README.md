@@ -8,12 +8,12 @@ Aplikasi Inventory Sumbangan Corona Menggunakan Flutter dan Phpmyadmin
   Banyak relawan organisasi social yang ingin membantu para tenaga medis, tetapi untuk mengumpulkan donasi para organisasi relawan tersebut masih menggunakan cara manual. Sehingga menjadi lama untuk mencata jumlah barang yang dikumpulkan oleh para relawan tersebut. Oleh sebab itu saya ingin membuat aplikasi “Inventory Aplikasi Sumbangan Corona” untuk membantu para relawan organisasi social mencatat sumbangan peralatan corona secara komputing agar lebih efisien dan karena saya sedang mempelajari bahasa pemograman flutter saya akan membuat aplikasi “Inventory Aplikasi Sumbangan Corona” menggunakan flutter.
   
   
- ![]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/menu.jpeg")
+ ![alt textalt textalt textalt textalt text]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/menu.jpeg")
   
- ![]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/delete.jpeg")
+ ![alt textalt textalt textalt text]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/delete.jpeg")
  
- ![]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/2.jpeg")
+ ![alt textalt textalt text]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/2.jpeg")
  
- ![]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/3.jpeg")
+ ![alt textalt text]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/3.jpeg")
  
- ![]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/4.jpeg")
+ ![alt text]("https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/4.jpeg")
