@@ -9,7 +9,6 @@ Aplikasi Inventory Sumbangan Corona Menggunakan Flutter dan Phpmyadmin
   
   ### Gambar Aplikasi
   
-  Gambar Menu
   
  ![alt text](https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/menu.jpeg)
  ![alt text](https://github.com/topanmulia/uas-advanced-mobile-flutter/blob/master/delete.jpeg)
