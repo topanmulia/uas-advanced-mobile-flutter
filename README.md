@@ -8,3 +8,13 @@ Aplikasi Inventory Sumbangan Corona Menggunakan Flutter dan Phpmyadmin
   Banyak relawan organisasi social yang ingin membantu para tenaga medis, tetapi untuk mengumpulkan donasi para organisasi relawan tersebut masih menggunakan cara manual. Sehingga menjadi lama untuk mencata jumlah barang yang dikumpulkan oleh para relawan tersebut. Oleh sebab itu saya ingin membuat aplikasi “Inventory Aplikasi Sumbangan Corona” untuk membantu para relawan organisasi social mencatat sumbangan peralatan corona secara komputing agar lebih efisien dan karena saya sedang mempelajari bahasa pemograman flutter saya akan membuat aplikasi “Inventory Aplikasi Sumbangan Corona” menggunakan flutter.
   
   
+ ![]("menu.jpg")
+  
+  
+ ![]("delete.jpg")
+ 
+ ![]("2.jpg")
+ 
+ ![]("3.jpg")
+ 
+ ![]("4.jpg")
